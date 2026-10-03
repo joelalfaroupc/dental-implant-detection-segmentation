@@ -1,0 +1,11 @@
+ultralytics==8.3.248
+segmentation-models-pytorch>=0.3,<0.6
+torch>=2.0,<3
+torchvision>=0.15,<1
+albumentations>=2,<3
+numpy>=1.24,<3
+opencv-python>=4.8,<5
+matplotlib>=3.7,<4
+pandas>=2,<3
+Pillow>=10,<13
+jupyterlab>=4,<5

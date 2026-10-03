@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+data/*
+!data/README.md
+dataset_final/
+Implantes/
+runs/
+*.pt
+*.pth
+*.zip
+*.mlx
+data_implantes.yaml
